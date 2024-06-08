@@ -78,7 +78,7 @@ export default function Buy() {
             </div>
             <h1 className="text-center font-semibold">Ride the wave</h1>
             <p className="text-sm text-center">
-              Base Season is at its early stages. Just sit back and relax. The
+              Solana Season is at its early stages. Just sit back and relax. The
               worst thing most people do, is they sell their bags early
             </p>
           </div>
