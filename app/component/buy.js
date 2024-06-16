@@ -59,7 +59,7 @@ export default function Buy() {
                 height="150"
               />
             </div>{" "}
-            <h1 className="text-center font-semibold">Go to Jupiter</h1>
+            <h1 className="text-center font-semibold">Go to Uniswap</h1>
             <p className="text-sm text-center">
               Google uniswap.org website. Connect your wallet. Paste the $APPLE
               token address into Uniswap and then confirm the swap. Then sign.
