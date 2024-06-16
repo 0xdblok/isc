@@ -26,9 +26,9 @@ export default function Buy() {
             </div>{" "}
             <h1 className="text-center font-semibold">Create a Wallet</h1>
             <p className="text-sm text-center">
-              Download Phantom wallet from the app store or google play store
+              Download Metamask wallet from the app store or google play store
               for free. Desktop users, download the google chrome extension by
-              going to phantom.app
+              going to metamask.io
             </p>
           </div>
           <div className="border-2 border-yellow-400 shadow-xl bg-[#ffd29d] p-8 rounded-lg lg:w-1/4">
@@ -42,10 +42,10 @@ export default function Buy() {
                 height="150"
               />
             </div>{" "}
-            <h1 className="text-center font-semibold">Get Some SOL</h1>
+            <h1 className="text-center font-semibold">Get Some ETH</h1>
             <p className="text-sm text-center break-words">
-              Have SOL in your wallet to switch to $APPLE. If you don’t have any
-              SOL, you can buy SOL from an exchange and send it to Solana.
+              Have ETH in your wallet to switch to $APPLE. If you don’t have any
+              ETH, you can buy ETH from an exchange and send it to BASE.
             </p>
           </div>
           <div className="border-2 border-yellow-400 shadow-xl bg-[#ffd29d] p-8 rounded-lg lg:w-1/4">
@@ -61,8 +61,8 @@ export default function Buy() {
             </div>{" "}
             <h1 className="text-center font-semibold">Go to Jupiter</h1>
             <p className="text-sm text-center">
-              Google jup.ag website. Connect your wallet. Paste the $APPLE token
-              address into Jupiter and then confirm the swap. Then sign.
+              Google uniswap.org website. Connect your wallet. Paste the $APPLE
+              token address into Uniswap and then confirm the swap. Then sign.
             </p>
           </div>
           <div className="border-2 border-yellow-400 shadow-xl bg-[#ffd29d] p-8 rounded-lg lg:w-1/4 ">
@@ -78,7 +78,7 @@ export default function Buy() {
             </div>
             <h1 className="text-center font-semibold">Ride the wave</h1>
             <p className="text-sm text-center">
-              Solana Season is at its early stages. Just sit back and relax. The
+              Base Season is at its early stages. Just sit back and relax. The
               worst thing most people do, is they sell their bags early
             </p>
           </div>
