@@ -26,9 +26,9 @@ export default function Buy() {
             </div>{" "}
             <h1 className="text-center font-semibold">Create a Wallet</h1>
             <p className="text-sm text-center">
-              Download Metamask wallet from the app store or google play store
+              Download Tonkeeper wallet from the app store or google play store
               for free. Desktop users, download the google chrome extension by
-              going to metamask.io
+              going to tonkeeper.com
             </p>
           </div>
           <div className="border-2 border-yellow-400 shadow-xl bg-[#ffd29d] p-8 rounded-lg lg:w-1/4">
@@ -42,10 +42,11 @@ export default function Buy() {
                 height="150"
               />
             </div>{" "}
-            <h1 className="text-center font-semibold">Get Some ETH</h1>
+            <h1 className="text-center font-semibold">Get Some TON</h1>
             <p className="text-sm text-center break-words">
-              Have ETH in your wallet to switch to $APPLE. If you don’t have any
-              ETH, you can buy ETH from an exchange and send it to BASE.
+              Have TON in your wallet to switch to $APPLE. If you don’t have any
+              TON, you can buy TON from an exchange like Kucoin and send it to
+              on TON netowrk.
             </p>
           </div>
           <div className="border-2 border-yellow-400 shadow-xl bg-[#ffd29d] p-8 rounded-lg lg:w-1/4">
@@ -59,9 +60,9 @@ export default function Buy() {
                 height="150"
               />
             </div>{" "}
-            <h1 className="text-center font-semibold">Go to Uniswap</h1>
+            <h1 className="text-center font-semibold">Go to DeDust</h1>
             <p className="text-sm text-center">
-              Google uniswap.org website. Connect your wallet. Paste the $APPLE
+              Google dedust.io website. Connect your wallet. Paste the $APPLE
               token address into Uniswap and then confirm the swap. Then sign.
             </p>
           </div>
@@ -78,7 +79,7 @@ export default function Buy() {
             </div>
             <h1 className="text-center font-semibold">Ride the wave</h1>
             <p className="text-sm text-center">
-              Base Season is at its early stages. Just sit back and relax. The
+              Ton Season is at its early stages. Just sit back and relax. The
               worst thing most people do, is they sell their bags early
             </p>
           </div>
